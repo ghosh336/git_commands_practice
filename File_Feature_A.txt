@@ -1,1 +1,2 @@
-New Feature called Feature A is added 
+New Feature called Feature A is added
+Some features of feature A updated
