@@ -1,2 +1,3 @@
 New Feature called Feature A is added
 Some features of feature A updated
+Added one more feature on Client CR 
