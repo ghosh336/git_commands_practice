@@ -1,0 +1,2 @@
+This is File B
+All File B related content will be stored here
